@@ -1,4 +1,4 @@
-![Open Source at Automattic](./assets//community-banner.png)
+![Open Source at Automattic](https://raw.githubusercontent.com/simulacra-technologies/.github/main/profile/assets/community-banner.png)
 
 **Simulacra Technologies!**
 
